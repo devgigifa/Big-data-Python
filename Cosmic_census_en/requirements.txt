@@ -1,0 +1,12 @@
+# Cosmic Census — dependencies
+# Install with: pip install -r requirements.txt
+# Note: Java 8+ must be installed on your system for PySpark to work
+
+pyspark>=3.5.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
+tensorflow>=2.13.0
+requests>=2.31.0
+pyarrow>=14.0.0
